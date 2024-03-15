@@ -1,10 +1,1 @@
-[
-   {
-      "name":"printer no. twenty two",
-      "id":22
-   },
-  {
-      "name":"printer no. one",
-      "id":1
-   }
-]
+[{"name":"printer no. twenty two","id":22},{"name":"printer no. one","id":1}]
